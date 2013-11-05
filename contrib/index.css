@@ -1,3 +1,4 @@
+<style type="text/css">
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
 
 html {
@@ -260,4 +261,4 @@ ol[type=I] {
 ol[type=i] {
     list-style-type:lower-roman;
 }
-
+</style>
